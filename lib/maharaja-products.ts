@@ -40,7 +40,7 @@ export const MAHARAJA_PRODUCTS: MaharajaProduct[] = [
     colorName: "Royal Blue & Gold",
     hexColor: "#1a3a6b",
     details: {
-      weave: "Traditional Mysore handloom satin weave",
+      weave: "Traditional Mysore powerloom satin weave",
       zari: "Pure gold zari (temple border & pallu)",
       fabric: "100% pure mulberry silk",
       origin: "Mysore Silk Weaving Factory, Karnataka",

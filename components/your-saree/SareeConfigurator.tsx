@@ -682,7 +682,7 @@ export default function SareeConfigurator() {
         <div className="ys__craft-grid">
           {[
             ["/silk-threads.jpg", "Silk Threads"],
-            ["/loom-craft.jpg", "The Loom"],
+            ["/loom-craft.jpg?v=powerloom", "The Power Loom"],
             ["/gold-thread.jpg", "Zari"],
             ["/zari-macro.jpg", "Border Weaving"],
           ].map(([src, label]) => (

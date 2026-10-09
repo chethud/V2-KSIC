@@ -57,7 +57,7 @@ export const COLOURS: ColourOption[] = [
 
 export const WEAVES: ChoiceOption[] = [
   { id: "classic", name: "Classic Mysore", description: "The pure house weave.", image: "/silk-threads.jpg", price: 0 },
-  { id: "traditional", name: "Traditional", description: "Time-honoured depth.", image: "/loom-craft.jpg", price: 8000 },
+  { id: "traditional", name: "Traditional", description: "Time-honoured depth.", image: "/loom-craft.jpg?v=powerloom", price: 8000 },
   { id: "fine", name: "Fine Texture", description: "Refined and light.", image: "/zari-macro.jpg", price: 12000 },
   { id: "contemporary", name: "Contemporary", description: "Modern restraint.", image: "/prod-blue.jpg", price: 10000 },
   { id: "custom", name: "Custom", description: "Bespoke with our atelier.", image: "/heritage-palace.jpg", price: 25000 },

@@ -64,7 +64,7 @@ export const SAREES: SareeProduct[] = [
       { id: "ruby", label: "Ruby", hex: "#8d2d3a", image: "/sarees/bridal-red.jpg" },
     ],
     details: {
-      weave: "Traditional Mysore handloom satin weave",
+      weave: "Traditional Mysore powerloom satin weave",
       zari: "Pure gold zari on the border and pallu",
       fabric: "100% pure mulberry silk",
       origin: "KSIC Heritage Looms, Mysuru",

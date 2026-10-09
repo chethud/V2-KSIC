@@ -22,14 +22,13 @@ export default function Heritage() {
         <div className="heritage__copy">
           <p className="heritage__eyebrow">Heritage</p>
           <h2 className="heritage__title">
-            Three generations.
+            Woven since 1912.
             <br />
-            One piece of silk.
+            Kept for generations.
           </h2>
           <p className="heritage__lead">
-            Some things are bought.
-            <br />
-            Some things are passed down.
+            From the Mysuru power-loom mill to heirlooms at home —
+            pure silk and gold zari made to be worn, then passed down.
           </p>
           <Link className="heritage__cta" href="/heritage">
             Our Story <span aria-hidden="true">→</span>
@@ -39,8 +38,8 @@ export default function Heritage() {
         <figure className="heritage__loom">
           <div className="media-fill">
             <Image
-              src="/hands-weave.jpg?v=2"
-              alt="Hands weaving silk on a loom"
+              src="/loom-craft.jpg?v=powerloom"
+              alt="Power looms weaving Mysore silk in the Mysuru mill"
               fill
               sizes="(max-width: 900px) 90vw, 32vw"
             />

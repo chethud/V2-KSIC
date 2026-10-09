@@ -79,8 +79,8 @@ export default function JournalPage() {
               </div>
               <div className="j-card__media">
                 <Image
-                  src="/journal/journal-loom.jpg?v=2"
-                  alt="An artisan weaving maroon Mysore silk with gold zari on a handloom"
+                  src="/journal/journal-loom.jpg?v=powerloom"
+                  alt="Power loom weaving maroon Mysore silk with gold zari"
                   fill
                   priority
                   sizes="(max-width: 980px) 100vw, 40vw"
@@ -233,7 +233,7 @@ export default function JournalPage() {
               </Link>
             </div>
             <div className="j-split__media">
-              <Image src="/hands-weave.jpg" alt="Hands drawing gold zari across maroon silk" fill sizes="50vw" />
+              <Image src="/hands-weave.jpg?v=powerloom" alt="Power loom weaving gold zari on maroon silk" fill sizes="50vw" />
             </div>
           </article>
 

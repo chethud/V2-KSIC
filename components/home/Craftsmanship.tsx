@@ -6,7 +6,7 @@ import { useEffect, useRef, useState } from "react";
 const steps = [
   { n: "01", title: "The Silk", image: "/silk-threads.jpg", copy: "Raw purity — the beginning of every heirloom." },
   { n: "02", title: "The Zari", image: "/gold-thread.jpg", copy: "Metal becomes memory in every border." },
-  { n: "03", title: "The Weave", image: "/loom-craft.jpg", copy: "Hands and loom in quiet conversation." },
+  { n: "03", title: "The Weave", image: "/loom-craft.jpg?v=powerloom", copy: "Power looms at work in the Mysuru mill." },
   { n: "04", title: "The Finish", image: "/zari-macro.jpg", copy: "Precision where the eye rests longest." },
   { n: "05", title: "The Heirloom", image: "/heirloom.jpg", copy: "A saree ready to outlive the moment." },
 ];

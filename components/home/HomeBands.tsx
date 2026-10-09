@@ -8,8 +8,8 @@ const closeGates = [
     title: "Read the loom's story",
     copy: "Heritage chapters, read on their own. A story never drops a saree into the bag.",
     cta: "Read story",
-    image: "/journal/journal-loom.jpg?v=2",
-    alt: "An artisan weaving maroon Mysore silk with gold zari",
+    image: "/loom-craft.jpg?v=powerloom",
+    alt: "Power looms weaving Mysore silk in the factory",
   },
   {
     href: "/wear",

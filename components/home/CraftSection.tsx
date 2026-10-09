@@ -6,7 +6,7 @@ import { useState } from "react";
 const steps = [
   { id: "01", title: "Silk", image: "/silk-threads.jpg", copy: "Pure mulberry silk, chosen for lustre and longevity." },
   { id: "02", title: "Zari", image: "/gold-thread.jpg", copy: "Gold and silver wound into thread that catches light like jewellery." },
-  { id: "03", title: "Weave", image: "/loom-craft.jpg", copy: "A discipline of the loom — measured in patience, not speed." },
+  { id: "03", title: "Weave", image: "/loom-craft.jpg?v=powerloom", copy: "Power looms at the Mysuru mill — precision woven into every metre." },
   { id: "04", title: "Finish", image: "/zari-macro.jpg", copy: "Borders set with precision. Every piece inspected by hand." },
 ];
 

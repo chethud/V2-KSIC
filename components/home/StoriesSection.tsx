@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const stories = [
   { n: "01", cat: "Heritage", title: "The Story of Mysore Silk", image: "/heritage-palace.jpg" },
-  { n: "02", cat: "Craft", title: "Inside the Loom", image: "/loom-craft.jpg" },
+  { n: "02", cat: "Craft", title: "Inside the Loom", image: "/loom-craft.jpg?v=powerloom" },
   { n: "03", cat: "Material", title: "The Art of Zari", image: "/gold-thread.jpg" },
 ];
 

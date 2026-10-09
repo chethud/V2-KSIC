@@ -29,8 +29,8 @@ export const SITE_NAV: NavGroup[] = [
       {
         label: "The Craft",
         href: "/mysore-silk/craft",
-        image: "/hands-weave.jpg",
-        description: "Hands, looms and the slow discipline behind every border and butta.",
+        image: "/hands-weave.jpg?v=powerloom",
+        description: "Power looms and jacquards behind every border and butta.",
         ctaLabel: "Discover the craft",
       },
       {
@@ -120,15 +120,15 @@ export const SITE_NAV: NavGroup[] = [
       {
         label: "The Factory",
         href: "/world/factory",
-        image: "/loom-craft.jpg",
-        description: "Inside the looms where Mysore silk is still woven with care.",
+        image: "/loom-craft.jpg?v=powerloom",
+        description: "Inside the power-loom halls where Mysore silk is woven with care.",
         ctaLabel: "Visit the factory",
       },
       {
         label: "Our People",
         href: "/world/people",
-        image: "/hands-weave.jpg",
-        description: "The artisans whose hands give each saree its quiet character.",
+        image: "/hands-weave.jpg?v=powerloom",
+        description: "The mill teams who keep every metre precise and true.",
         ctaLabel: "Meet our people",
       },
       {
@@ -162,8 +162,8 @@ export const SITE_NAV: NavGroup[] = [
       {
         label: "Craft",
         href: "/journal/craft",
-        image: "/loom-craft.jpg",
-        description: "Notes from the loom — technique, tradition and making.",
+        image: "/loom-craft.jpg?v=powerloom",
+        description: "Notes from the mill — technique, tradition and making.",
         ctaLabel: "Read craft",
       },
       {
@@ -204,8 +204,8 @@ export const SITE_NAV: NavGroup[] = [
       {
         label: "Factory",
         href: "/visit/factory",
-        image: "/loom-craft.jpg",
-        description: "Arrange a visit to see weaving, zari and finishing up close.",
+        image: "/loom-craft.jpg?v=powerloom",
+        description: "Arrange a visit to see power looms, zari and finishing up close.",
         ctaLabel: "Plan a visit",
       },
       {

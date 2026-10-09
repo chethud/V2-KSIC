@@ -31,8 +31,8 @@ export default function BetweenHero() {
       <div className="between-hero__inner">
         <figure className="between-hero__media">
           <Image
-            src="/hands-weave.jpg"
-            alt="Artisan hands weaving Mysore silk on a loom"
+            src="/hands-weave.jpg?v=powerloom"
+            alt="Power loom weaving Mysore silk in the factory"
             fill
             sizes="(max-width: 900px) 100vw, 48vw"
             className="between-hero__img"
